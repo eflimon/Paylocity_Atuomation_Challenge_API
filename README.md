@@ -1,11 +1,11 @@
 # Paylocity_Atuomation_Challenge_API
 API automation challenge for Paylocity
 
-# Requierements
+# Requirements
 
 - Install postman. Download link: https://www.postman.com/downloads/
-- Or open postam web: https://www.postman.com/
-- Login to you postam account or create one and login.
+- Or open postman web: https://www.postman.com/
+- Login to you postman account or create one and login.
 
 # Setting up
 
@@ -31,12 +31,12 @@ Navigate to: https://github.com/eflimon/Paylocity_Atuomation_Challenge_API
   
 <img width="1351" height="773" alt="image" src="https://github.com/user-attachments/assets/22eb583b-b757-4411-877c-d74a21ffeb51" />
 
-- Select all the resquests
+- Select all the requests
 - Click Run Paylocity Challenge
 - 
 <img width="1783" height="856" alt="image" src="https://github.com/user-attachments/assets/06f927c4-e073-463c-93bc-0ba78373ab1b" />
 
-- All test will run and the reulst will be shown
+- All test will run and the results will be shown
 
 
 
