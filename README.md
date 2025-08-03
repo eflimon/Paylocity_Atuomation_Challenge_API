@@ -19,14 +19,23 @@ Navigate to: https://github.com/eflimon/Paylocity_Atuomation_Challenge_API
 
 - Open Postman
 - Click Import and drag an drop the file downloaded previously
+
 <img width="1582" height="864" alt="image" src="https://github.com/user-attachments/assets/63509c03-afe8-4358-b78a-593caa447dcf" />
+
 - Collection is present in Postman
+
 <img width="1248" height="594" alt="image" src="https://github.com/user-attachments/assets/f4f9a857-9ec5-4a9b-9b7b-9cb80b395573" />
+
 - Click on the three dots next to the collection
 - Click run
+  
 <img width="1351" height="773" alt="image" src="https://github.com/user-attachments/assets/22eb583b-b757-4411-877c-d74a21ffeb51" />
+
 - Select all the resquests
 - Click Run Paylocity Challenge
+- 
+<img width="1783" height="856" alt="image" src="https://github.com/user-attachments/assets/06f927c4-e073-463c-93bc-0ba78373ab1b" />
+
 - All test will run and the reulst will be shown
 
 
